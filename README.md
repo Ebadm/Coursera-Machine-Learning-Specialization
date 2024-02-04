@@ -17,9 +17,9 @@ By the end of this Specialization, you will have mastered key concepts and gaine
 
 
 # There are 3 Courses in this Specialization :
-COURSE 1 : Supervised Machine Learning: Regression and Classification
-COURSE 2 : Advanced Learning Algorithms
-COURSE 3 : Unsupervised Learning, Recommenders, Reinforcement Learning
+COURSE 1 : Supervised Machine Learning: Regression and Classification </br>
+COURSE 2 : Advanced Learning Algorithms </br>
+COURSE 3 : Unsupervised Learning, Recommenders, Reinforcement Learning </br>
 
 
 
